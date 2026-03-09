@@ -1,7 +1,7 @@
 # 📦 AI Supply Chain & Weather Copilot
 
 ## 📌 Project Overview
-Global supply chains generate massive amounts of relational data daily. When logistics executives need to identify the root cause of shipping delays, querying multiple databases (Orders, Weather, Macro-economics) takes hours.
+Global supply chains generate massive amounts of relational data daily. When logistics executives need to identify the root cause of shipping delays, querying multiple databases (Orders, Weather, Macro-economics) takes hours. This project bridges the gap between raw data engineering and Generative AI. I engineered a custom AI Copilot that ingests over 150,000 rows of relational supply chain data and allows executives to ask complex, multi-variable questions using natural language to extract instant business intelligence.
 
 ## 📊 Project Visuals
 
@@ -13,8 +13,6 @@ Global supply chains generate massive amounts of relational data daily. When log
 ![Power BI Dashboard - Deep Dive](powerbi_dashboard2.png)
 
 🎥 **[Click here to watch the 2-minute video demo of the AI Copilot in action!](https://youtu.be/ZiRUPPsjTSA)**
-
-This project bridges the gap between raw data engineering and Generative AI. I engineered a custom AI Copilot that ingests over 150,000 rows of relational supply chain data and allows executives to ask complex, multi-variable questions using natural language to extract instant business intelligence.
 
 ## 🏗️ Architecture & Tech Stack
 * **Frontend UI:** Streamlit (Python)
